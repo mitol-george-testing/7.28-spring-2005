@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "68e270aa-e8e4-b751-f9e9-66f857ee1c84",
+      "a82054f1-5c06-3e4d-dd4a-fa2f6d50bbc0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Molecular Biology",
+  "course_description": "This course covers a detailed analysis of the biochemical mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. The topics covered in lectures and readings of relevant literature include gene regulation, DNA replication, genetic recombination, and mRNA translation. In particular, the logic of experimental design and data analysis is emphasized.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "7.58",
+  "primary_course_number": "7.28",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
